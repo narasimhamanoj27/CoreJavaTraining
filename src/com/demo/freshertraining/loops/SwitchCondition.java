@@ -1,4 +1,4 @@
-package com.demo.freshertraining;
+package com.demo.freshertraining.loops;
 
 import java.util.Scanner;
 
