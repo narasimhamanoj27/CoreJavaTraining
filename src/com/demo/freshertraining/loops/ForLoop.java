@@ -17,7 +17,7 @@ public class ForLoop {
         if (max == 1 || max == 0)
             return false;
         for (int i = 2; i < max; i++) {
-            if(max%i == 0) {
+            if(max % i == 0) {
                 return false;
             }
         }
