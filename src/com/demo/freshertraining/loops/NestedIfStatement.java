@@ -9,7 +9,11 @@ public class NestedIfStatement {
         if (age >= 18) {
             if (weight > 50) {
                 System.out.println("You are eligible to donate blood");
+            } else {
+                System.out.println("You are eligible to donate blood");
             }
+        } else {
+            System.out.println("You are eligible to donate blood");
         }
     }
 }
