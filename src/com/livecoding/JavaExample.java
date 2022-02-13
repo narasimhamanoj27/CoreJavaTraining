@@ -1,11 +1,14 @@
 package com.livecoding;
 
 public class JavaExample {
-
     public static void main(String[] args) {
-       // MathUtility m = new MathUtility();
-       //System.out.println("Addition" + m.addition(1,2));
-       //System.out.println("Subtraction" + m.subtraction(10,7));
+       int a = 10;
+       int b = 25;
+
+       add(a,b);
+    }
+    private static void add(int a, int b) {
+        System.out.print("Addition = "+ (a+b));
     }
 
 }
