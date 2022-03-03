@@ -1,6 +1,6 @@
-package com.livecoding.aggregation;
+package com.demo.freshertraining.aggregation;
 
-public class Student {
+public class Student implements Comparable<Student> {
     String name;
     int age;
     String department;
@@ -11,4 +11,8 @@ public class Student {
         this.department = department;
     }
 
+    @Override
+    public int compareTo(Student o) {
+        return 0;
+    }
 }

@@ -1,4 +1,4 @@
-package com.livecoding.composition;
+package com.demo.freshertraining.composition;
 
 import java.util.List;
 

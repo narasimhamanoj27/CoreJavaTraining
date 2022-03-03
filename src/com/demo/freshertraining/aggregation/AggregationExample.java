@@ -1,10 +1,9 @@
-package com.livecoding.aggregation;
+package com.demo.freshertraining.aggregation;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class AggregationExample {
+
     public static void main(String[] args) {
         /*Student s1 = new Student("Manoj", 30, "CSE");
         Student s2 = new Student("Hemalatha", 22, "CSE");

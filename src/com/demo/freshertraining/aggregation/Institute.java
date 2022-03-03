@@ -1,4 +1,4 @@
-package com.livecoding.aggregation;
+package com.demo.freshertraining.aggregation;
 
 import java.util.List;
 

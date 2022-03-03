@@ -1,4 +1,4 @@
-package com.livecoding.composition;
+package com.demo.freshertraining.composition;
 
 public class Book {
     public String title;
